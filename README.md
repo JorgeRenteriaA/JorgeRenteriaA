@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **jerarenteria@gmail.com**
 
+<a href="https://jorgerenteriaa.github.io/Portafolio/" target="_blank"><img src="./portfolio.png"/></a>](https://jorgerenteriaa.github.io/Portafolio/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jorge-emanuel-renter%c3%ada-alvarado-b25b1b212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jorge-emanuel-renter%c3%ada-alvarado-b25b1b212/" height="30" width="40" /></a>
