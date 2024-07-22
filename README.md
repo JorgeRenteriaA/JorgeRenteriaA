@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jerarenteria@gmail.com**
 
-<a href="https://jorgerenteriaa.github.io/Portafolio/" target="_blank"><img src="./portfolio.png"/></a>](https://jorgerenteriaa.github.io/Portafolio/)
+<a href="https://jorgerenteriaa.github.io/Portafolio/" target="_blank"><img src="./portfolio.png"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
